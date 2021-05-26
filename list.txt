@@ -42,6 +42,16 @@ AUM ID		F3F176BD.53203526D8F6C_p8qzvses5c8me!AirServer
 Title ID	
 Type		Characteristic.InputSourceType.AIRPLAY
 
+Name        myTube!
+AUM ID      59750RYKENAPPS.435307C335C44!APP
+Title ID    
+Type        APPLICATION
+
+Name        MC Addons Manager
+AUM ID      26955Osaxely.MCAddonsManager!APP
+Title ID    
+Type        APPLICATION
+
 _________________________________________________________________________________
 
 Xbox Spiele
