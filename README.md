@@ -6,7 +6,7 @@ This list is meant to be a simple copy and paste solution for the [homebridge-sm
 
 On your Xbox it is pretty easy.
 
-1st navigate to the app or game you want to add
+1st navigate to the app or game you want to add /n
 2nd use the menu button and select "Manage app"
 3rd select "File info" in the lower left of the screen
 4th extracth the information. Preferrably add it to the lists as a pull request but an issue with a screenshot will work, too.
