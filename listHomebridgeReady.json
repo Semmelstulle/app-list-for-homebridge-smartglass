@@ -1,82 +1,68 @@
-"platforms": [
-    {
-      "platform": "Smartglass",
-      "devices": [
-        {
-          "name": "Xbox Series S",
-          "ipaddress": "192.168.2.9",
-          "liveid": "F400000000000000",
-          "inputs": [
-            {
-                "name": "Apple TV",
-                "aum_id": "AppleInc.AppleTV_nzyj5cx40ttqa!App"
-            },
-            {
-                "name": "MC Addons Manager",
-                "aum_id": "26955Osaxely.MCAddonsManager!APP"
-                },
-            {
-                "name": "Microsoft Store",
-                "aum_id": "Microsoft.storify_8wekyb3d8bbwe!App"
-            },
-            {
-                "name": "myTube!",
-                "aum_id": "59750RYKENAPPS.435307C335C44!APP"
-            },
-            {
-                "name": "Netflix",
-                "aum_id": "4DF9E0F8.Netflix_mcm4njqhnhss8!APP"
-            },
-            {
-                "name": "Spotify",
-                "aum_id": "SpotifyAB.SpotifyMusic-forXbox_zpdnekdrzrea0!App"
-            },
-            {
-                "name": "Twitch",
-                "aum_id": "TwitchInteractive.TwitchApp_7kd9w9e3c5jra!Twitch"
-            },
-            {
-                "name": "Unigram",
-                "aum_id": "38833FF26BA1D.UnigramPreview_g9c9v27vpyspw!App"
-            },
-            {
-                "name": "Xbox Devices",
-                "aum_id": "Microsoft.XboxDevices_8wekyb3d8bbwe!App"
-            },
-            {
-                "name": "YouTube",
-                "aum_id": "GoogleInc.YouTube_yfg5n0ztvskxp!App"
-            },
-            {
-                "name": "Airserver",
-                "aum_id": "F3F176BD.53203526D8F6C_p8qzvses5c8me!AirServer"
-            },
-            {
-                "name": "Destiny 2",
-                "aum_id": "Bungie.Destiny2basegame_8xb1a0vv8ay84!tiger.ReleaseFinal"
-            },
-            {
-                "name": "Minecraft",
-                "aum_id": "Microsoft.MinecraftUWPConsole_8wekyb3d8bbwe!APP"
-            },
-            {
-                "name": "Minecraft Dungeons",
-                "aum_id": "Microsoft.LovikaX1_8wekyb3d8bbwe!APP"
-            },
-            {
-                "name": "A Way Out",
-                "aum_id": "AWayOut_zwks512sysnyr!AppAWayOut"
-            },
-            {
-                "name": "Cities: Skylines",
-                "aum_id": "ColossalOrder.CitiesSkylines_9dej7x9zwzxzc!App"
-            },
-            {
-                "name": "Rocket League",
-                "aum_id": "PsyonixInc.RocketLeague_24yhbbr7hv30r!App"
-            }
-        ]
-    }
-  ]
+{
+    "name": "Apple TV",
+    "aum_id": "AppleInc.AppleTV_nzyj5cx40ttqa!App"
+},
+{
+    "name": "MC Addons Manager",
+    "aum_id": "26955Osaxely.MCAddonsManager!APP"
+    },
+{
+    "name": "Microsoft Store",
+    "aum_id": "Microsoft.storify_8wekyb3d8bbwe!App"
+},
+{
+    "name": "myTube!",
+    "aum_id": "59750RYKENAPPS.435307C335C44!APP"
+},
+{
+    "name": "Netflix",
+    "aum_id": "4DF9E0F8.Netflix_mcm4njqhnhss8!APP"
+},
+{
+    "name": "Spotify",
+    "aum_id": "SpotifyAB.SpotifyMusic-forXbox_zpdnekdrzrea0!App"
+},
+{
+    "name": "Twitch",
+    "aum_id": "TwitchInteractive.TwitchApp_7kd9w9e3c5jra!Twitch"
+},
+{
+    "name": "Unigram",
+    "aum_id": "38833FF26BA1D.UnigramPreview_g9c9v27vpyspw!App"
+},
+{
+    "name": "Xbox Devices",
+    "aum_id": "Microsoft.XboxDevices_8wekyb3d8bbwe!App"
+},
+{
+    "name": "YouTube",
+    "aum_id": "GoogleInc.YouTube_yfg5n0ztvskxp!App"
+},
+{
+    "name": "Airserver",
+    "aum_id": "F3F176BD.53203526D8F6C_p8qzvses5c8me!AirServer"
+},
+{
+    "name": "Destiny 2",
+    "aum_id": "Bungie.Destiny2basegame_8xb1a0vv8ay84!tiger.ReleaseFinal"
+},
+{
+    "name": "Minecraft",
+    "aum_id": "Microsoft.MinecraftUWPConsole_8wekyb3d8bbwe!APP"
+},
+{
+    "name": "Minecraft Dungeons",
+    "aum_id": "Microsoft.LovikaX1_8wekyb3d8bbwe!APP"
+},
+{
+    "name": "A Way Out",
+    "aum_id": "AWayOut_zwks512sysnyr!AppAWayOut"
+},
+{
+    "name": "Cities: Skylines",
+    "aum_id": "ColossalOrder.CitiesSkylines_9dej7x9zwzxzc!App"
+},
+{
+    "name": "Rocket League",
+    "aum_id": "PsyonixInc.RocketLeague_24yhbbr7hv30r!App"
 }
-]
