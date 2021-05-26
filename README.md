@@ -8,5 +8,8 @@ On your Xbox it is pretty easy.
 
 1st navigate to the app or game you want to add<br />
 2nd use the menu button and select "Manage app"<br />
+![Application menu](images/step1.JPG)
 3rd select "File info" in the lower left of the screen<br />
+![Manage app screen](images/step2.JPG)
 4th extracth the information. Preferrably add it to the lists as a pull request but an issue with a screenshot will work, too.<br />
+![Imformation screen](images/step3.JPG)
