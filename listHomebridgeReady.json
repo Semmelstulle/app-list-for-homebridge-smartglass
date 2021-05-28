@@ -5,7 +5,7 @@
 {
     "name": "MC Addons Manager",
     "aum_id": "26955Osaxely.MCAddonsManager!APP"
-    },
+},
 {
     "name": "Microsoft Store",
     "aum_id": "Microsoft.storify_8wekyb3d8bbwe!App"
@@ -41,6 +41,10 @@
 {
     "name": "Airserver",
     "aum_id": "F3F176BD.53203526D8F6C_p8qzvses5c8me!AirServer"
+},
+{
+    "name": "CoD: Modern Warfare"
+    "aum_id": "iw8Submission-EN-DE_ht1qfijb0gaftw!APP"
 },
 {
     "name": "Destiny 2",
