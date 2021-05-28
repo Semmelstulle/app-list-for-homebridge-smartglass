@@ -17,10 +17,10 @@ AUM ID		AppleInc.AppleTV_nzyj5cx40ttqa!App
 Title ID	73DBB026
 Type		APPLICATION
 
-Name        MC Addons Manager
-AUM ID      26955Osaxely.MCAddonsManager!APP
-Title ID    6EC3A54E
-Type        APPLICATION
+Name            MC Addons Manager
+AUM ID          26955Osaxely.MCAddonsManager!APP
+Title ID        6EC3A54E
+Type            APPLICATION
 
 Name        Microsoft Store
 AUM ID      Microsoft.storify_8wekyb3d8bbwe!App
@@ -70,6 +70,11 @@ Type		Characteristic.InputSourceType.AIRPLAY
 _________________________________________________________________________________
 
 Xbox Games
+
+Name            CoD: Modern Warfare
+AUM ID          iw8Submission-EN-DE_ht1qfijb0gaftw!APP
+Title ID        24574A4B
+Type            GAME
 
 Name		Destiny 2
 AUM ID		Bungie.Destiny2basegame_8xb1a0vv8ay84!tiger.ReleaseFinal
