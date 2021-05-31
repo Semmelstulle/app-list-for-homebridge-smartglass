@@ -137,3 +137,37 @@ Name        Rocket League
 AUM ID      PsyonixInc.RocketLeague_24yhbbr7hv30r!App
 Title ID    
 Type        GAME
+Name            CoD: Modern Warfare
+AUM ID          iw8Submission-EN-DE_ht1qfijb0gaftw!APP
+Title ID        24574A4B
+Type            GAME
+
+Name		Destiny 2
+AUM ID		Bungie.Destiny2basegame_8xb1a0vv8ay84!tiger.ReleaseFinal
+Title ID	144389848
+Type		GAME
+
+Name		Minecraft
+AUM ID		Microsoft.MinecraftUWPConsole_8wekyb3d8bbwe!APP
+Title ID	6CFA0C1E
+Type		GAME
+
+Name		Minecraft Dungeons
+AUM ID		Microsoft.LovikaX1_8wekyb3d8bbwe!APP
+Title ID	67ACC3CD
+Type		GAME
+
+Name		A Way Out
+AUM ID		AWayOut_zwks512sysnyr!AppAWayOut
+Title ID	
+Type		GAME
+
+Name		Cities: Skylines
+AUM ID		ColossalOrder.CitiesSkylines_9dej7x9zwzxzc!App
+Title ID	
+Type		GAME
+
+Name		Rocket League
+AUM ID		PsyonixInc.RocketLeague_24yhbbr7hv30r!App
+Title ID	
+Type		GAME
