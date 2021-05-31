@@ -1,102 +1,139 @@
 Xbox System
 
-Name		Dashboard
-AUM ID		Xbox.Dashboard_8wekyb3d8bbwe!Xbox.Dashboard.Application
-Type		HOME_SCREEN
+Name        Dashboard
+AUM ID      Xbox.Dashboard_8wekyb3d8bbwe!Xbox.Dashboard.Application
+Title ID    750323071
+Type        HOME_SCREEN
 
-Name		Settings
-AUM ID		Microsoft.Xbox.Settings_8wekyb3d8bbwe!Xbox.Settings.Application
-Type		OTHER
+Name        Settings
+AUM ID      Microsoft.Xbox.Settings_8wekyb3d8bbwe!Xbox.Settings.Application
+Title ID    1837352387
+Type        OTHER
 
 _________________________________________________________________________________
 
 Xbox Apps
 
-Name		Apple TV
-AUM ID		AppleInc.AppleTV_nzyj5cx40ttqa!App
-Title ID	73DBB026
-Type		APPLICATION
+Name        Apple TV
+AUM ID      AppleInc.AppleTV_nzyj5cx40ttqa!App
+Title ID    1943777318
+Type        APPLICATION
 
 Name        MC Addons Manager
-AUM ID      26955Osaxely.MCAddonsManager!APP
-Title ID    6EC3A54E
+AUM ID      26955Osaxely.MCAddonsManager_z7kqpnkd99a5j!App
+Title ID    1858315598
 Type        APPLICATION
 
 Name        Microsoft Store
 AUM ID      Microsoft.storify_8wekyb3d8bbwe!App
-Title ID    6F1E8569
+Title ID    1864271209
 Type        APPLICATION
 
 Name        myTube!
-AUM ID      59750RYKENAPPS.435307C335C44!APP
-Title ID    6B925AA4
+AUM ID      59750RYKENAPPS.435307C335C44_zd92nzxdcatqw!App
+Title ID    1804753572
 Type        APPLICATION
 
-Name		Netflix
-AUM ID		4DF9E0F8.Netflix_mcm4njqhnhss8!APP
-Title ID	1383452D
-Type		APPLICATION
+Name        Netflix
+AUM ID      4DF9E0F8.Netflix_mcm4njqhnhss8!App
+Title ID    327370029
+Type        APPLICATION
 
-Name		Spotify
-AUM ID		SpotifyAB.SpotifyMusic-forXbox_zpdnekdrzrea0!App
-Title ID	1693425033
-Type		APPLICATION
+Name        Spotify
+AUM ID      SpotifyAB.SpotifyMusic-forXbox_zpdnekdrzrea0!App
+Title ID    1693425033
+Type        APPLICATION
 
-Name		Twitch
-AUM ID		TwitchInteractive.TwitchApp_7kd9w9e3c5jra!Twitch
-Title ID	442736763
-Type		APPLICATION
+Name        Twitch
+AUM ID      TwitchInteractive.TwitchApp_7kd9w9e3c5jra!Twitch
+Title ID    442736763
+Type        APPLICATION
 
 Name        Unigram
 AUM ID      38833FF26BA1D.UnigramPreview_g9c9v27vpyspw!App
-Title ID    69990191
+Title ID    1771635089
 Type        APPLICATION
 
 Name        Xbox Devices
 AUM ID      Microsoft.XboxDevices_8wekyb3d8bbwe!App
-Title ID    2D346O8B
+Title ID    758407307
 Type        APPLICATION
 
-Name		YouTube
-AUM ID		GoogleInc.YouTube_yfg5n0ztvskxp!App
-Title ID	07459769
-Type		APPLICATION
+Name        YouTube
+AUM ID      GoogleInc.YouTube_yfg5n0ztvskxp!App
+Title ID    122001257
+Type        APPLICATION
 
-Name		Airserver
-AUM ID		F3F176BD.53203526D8F6C_p8qzvses5c8me!AirServer
-Title ID	
-Type		Characteristic.InputSourceType.AIRPLAY
+Name        Airserver
+AUM ID      F3F176BD.53203526D8F6C_p8qzvses5c8me!AirServer
+Title ID    
+Type        Characteristic.InputSourceType.AIRPLAY
 
 _________________________________________________________________________________
 
 Xbox Games
 
-Name		Destiny 2
-AUM ID		Bungie.Destiny2basegame_8xb1a0vv8ay84!tiger.ReleaseFinal
-Title ID	144389848
-Type		GAME
+Name        Assassins Creed Unity
+AUM ID      ACUEU771E1BF7_b6krnev7r9sf8!scimitarF
+Title ID    1998461943
+Type        GAME
 
-Name		Minecraft
-AUM ID		Microsoft.MinecraftUWPConsole_8wekyb3d8bbwe!APP
-Title ID	6CFA0C1E
-Type		GAME
+Name        CoD Warzone
+AUM ID      iw8Submission-EN-DE_ht1qfjb0gaftw!iw8
+Title ID    609700427
+Type        GAME
 
-Name		Minecraft Dungeons
-AUM ID		Microsoft.LovikaX1_8wekyb3d8bbwe!APP
-Title ID	67ACC3CD
-Type		GAME
+Name        Day of the Tentacle Remastered
+AUM ID      Microsoft.DayoftheTentacleRemastered_8wekyb3d8bbwe!Microsoft.DayoftheTentacleRemastered
+Title ID    2102421406
+Type        GAME
 
-Name		A Way Out
-AUM ID		AWayOut_zwks512sysnyr!AppAWayOut
-Title ID	
-Type		GAME
+Name        Fallout 4
+AUM ID      Institute_wnmpxyx7tzgg6!Institute
+Title ID    1256782258
+Type        GAME
 
-Name		Cities: Skylines
-AUM ID		ColossalOrder.CitiesSkylines_9dej7x9zwzxzc!App
-Title ID	
-Type		GAME
+Name        Forza Horizon 4
+AUM ID      Sunrise_8wekyb3d8bbwe!ReleaseFinalDx12
+Title ID    1985701699
+Type        GAME
 
-Name		Rocket League
-AUM ID		PsyonixInc.RocketLeague_24yhbbr7hv30r!App
-Title ID	
-Type		GAME
+Name        Goat Simulator
+AUM ID      GoatSimulator_ya6ajka317ab0!GoatGameDingoShipping
+Title ID    791545701
+Type        GAME
+
+Name        Halo the Master Chief Collection
+AUM ID      ACE-America_a43ghgr8ekz80!WarchestShip
+Title ID    1144039928
+Type        GAME
+
+Name        Destiny 2
+AUM ID      Bungie.Destiny2basegame_8xb1a0vv8ay84!tiger.ReleaseFinal
+Title ID    144389848
+Type        GAME
+
+Name        Minecraft
+AUM ID      Microsoft.MinecraftUWPConsole_8wekyb3d8bbwe!App
+Title ID    1828326430
+Type        GAME
+
+Name        Minecraft Dungeons
+AUM ID      Microsoft.LovikaX1_8wekyb3d8bbwe!AppMicrosoftLovikaX1Shipping
+Title ID    1739375565
+Type        GAME
+
+Name        A Way Out
+AUM ID      AWayOut_zwks512sysnyr!AppAWayOut
+Title ID    
+Type        GAME
+
+Name        Cities: Skylines
+AUM ID      ColossalOrder.CitiesSkylines_9dej7x9zwzxzc!App
+Title ID    
+Type        GAME
+
+Name        Rocket League
+AUM ID      PsyonixInc.RocketLeague_24yhbbr7hv30r!App
+Title ID    
+Type        GAME

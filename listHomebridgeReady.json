@@ -1,58 +1,106 @@
 {
     "name": "Apple TV",
-    "aum_id": "AppleInc.AppleTV_nzyj5cx40ttqa!App"
+    "aum_id": "AppleInc.AppleTV_nzyj5cx40ttqa!App",
+    "title_id": "1943777318"
 },
 {
     "name": "MC Addons Manager",
-    "aum_id": "26955Osaxely.MCAddonsManager!APP"
-    },
+    "aum_id": "26955Osaxely.MCAddonsManager_z7kqpnkd99a5j!App",
+    "title_id": "1858315598"
+},
 {
     "name": "Microsoft Store",
-    "aum_id": "Microsoft.storify_8wekyb3d8bbwe!App"
+    "aum_id": "Microsoft.storify_8wekyb3d8bbwe!App",
+    "title_id": "1864271209"
 },
 {
     "name": "myTube!",
-    "aum_id": "59750RYKENAPPS.435307C335C44!APP"
+    "aum_id": "59750RYKENAPPS.435307C335C44_zd92nzxdcatqw!App",
+    "title_id": "1804753572"
 },
 {
     "name": "Netflix",
-    "aum_id": "4DF9E0F8.Netflix_mcm4njqhnhss8!APP"
+    "aum_id": "4DF9E0F8.Netflix_mcm4njqhnhss8!App",
+    "title_id": "327370029"
 },
 {
     "name": "Spotify",
-    "aum_id": "SpotifyAB.SpotifyMusic-forXbox_zpdnekdrzrea0!App"
+    "aum_id": "SpotifyAB.SpotifyMusic-forXbox_zpdnekdrzrea0!App",
+    "title_id": "1693425033"
 },
 {
     "name": "Twitch",
-    "aum_id": "TwitchInteractive.TwitchApp_7kd9w9e3c5jra!Twitch"
+    "aum_id": "TwitchInteractive.TwitchApp_7kd9w9e3c5jra!Twitch",
+    "title_id": "442736763"
 },
 {
     "name": "Unigram",
-    "aum_id": "38833FF26BA1D.UnigramPreview_g9c9v27vpyspw!App"
+    "aum_id": "38833FF26BA1D.UnigramPreview_g9c9v27vpyspw!App",
+    "title_id": "1771635089"
 },
 {
     "name": "Xbox Devices",
-    "aum_id": "Microsoft.XboxDevices_8wekyb3d8bbwe!App"
+    "aum_id": "Microsoft.XboxDevices_8wekyb3d8bbwe!App",
+    "title_id": "758407307"
 },
 {
     "name": "YouTube",
-    "aum_id": "GoogleInc.YouTube_yfg5n0ztvskxp!App"
+    "aum_id": "GoogleInc.YouTube_yfg5n0ztvskxp!App",
+    "title_id": "122001257"
 },
 {
     "name": "Airserver",
     "aum_id": "F3F176BD.53203526D8F6C_p8qzvses5c8me!AirServer"
 },
 {
+    "name": "Assassins Creed Unity",
+    "aum_id": "ACUEU771E1BF7_b6krnev7r9sf8!scimitarF",
+    "title_id": "1998461943"
+},
+{
+    "name": "CoD Warzone",
+    "aum_id": "iw8Submission-EN-DE_ht1qfjb0gaftw!iw8",
+    "title_id": "609700427"
+},
+{
+    "name": "Day of the Tentacle Remastered",
+    "aum_id": "Microsoft.DayoftheTentacleRemastered_8wekyb3d8bbwe!Microsoft.DayoftheTentacleRemastered",
+    "title_id": "2102421406"
+},
+{
+    "name": "Fallout 4",
+    "aum_id": "Institute_wnmpxyx7tzgg6!Institute",
+    "title_id": "1256782258"
+},
+{
+    "name": "Forza Horizon 4",
+    "aum_id": "Sunrise_8wekyb3d8bbwe!ReleaseFinalDx12",
+    "title_id": "1985701699"
+},
+{
+    "name": "Goat Simulator",
+    "aum_id": "GoatSimulator_ya6ajka317ab0!GoatGameDingoShipping",
+    "title_id": "791545701"
+},
+{
+    "name": "Halo the Master Chief Collection",
+    "aum_id": "ACE-America_a43ghgr8ekz80!WarchestShip",
+    "title_id": "1144039928"
+},
+{
     "name": "Destiny 2",
-    "aum_id": "Bungie.Destiny2basegame_8xb1a0vv8ay84!tiger.ReleaseFinal"
+    "aum_id": "Bungie.Destiny2basegame_8xb1a0vv8ay84!tiger.ReleaseFinal",
+    "title_id": "144389848"
 },
 {
     "name": "Minecraft",
-    "aum_id": "Microsoft.MinecraftUWPConsole_8wekyb3d8bbwe!APP"
+    "aum_id": "Microsoft.MinecraftUWPConsole_8wekyb3d8bbwe!App",
+    "title_id": "1828326430"
 },
 {
     "name": "Minecraft Dungeons",
-    "aum_id": "Microsoft.LovikaX1_8wekyb3d8bbwe!APP"
+    "aum_id": "Microsoft.LovikaX1_8wekyb3d8bbwe!AppMicrosoftLovikaX1Shipping",
+    "title_id": "1739375565"
 },
 {
     "name": "A Way Out",
