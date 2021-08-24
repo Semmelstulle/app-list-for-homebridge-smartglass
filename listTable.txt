@@ -43,6 +43,12 @@ AUM ID      GoogleInc.YouTube_yfg5n0ztvskxp!App
 Name        Airserver
 AUM ID      F3F176BD.53203526D8F6C_p8qzvses5c8me!AirServer
 
+Name        Hulu
+AUM ID      HuluLLC.HuluPlus_fphbd361v8tya!App
+
+Name        HBO Max
+AUM ID      HomeBoxOfficeInc.HBONOW_k40401y96tbnw!App
+
 _________________________________________________________________________________
 
 Xbox Games
