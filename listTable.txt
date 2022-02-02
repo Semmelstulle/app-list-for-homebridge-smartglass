@@ -91,3 +91,9 @@ AUM ID      ColossalOrder.CitiesSkylines_9dej7x9zwzxzc!App
 
 Name        Rocket League
 AUM ID      PsyonixInc.RocketLeague_24yhbbr7hv30r!App
+
+Name        Apex Legends
+AUM ID      Apex_zwks512sysnyr!r5.App
+
+Name        Fortnite
+AUM ID      436609B6.FortniteClient_9ncxwbgmmv7m8!AppFortnite
