@@ -1,3 +1,6 @@
+# This repo will be restructured!
+As those IDs will be unique for every console, I'll make this repo into an instruction on how to obtain the IDs yourself. I'll try to keep it updated if there is any update that changes how you can access them on your Xbox.
+
 # app-list-for-homebridge-smartglass
 
 This repo aims to help configuring the [homebridge-smartglass](https://github.com/unknownskl/homebridge-smartglass) plugin. As [Microsoft ended support for Smartglass](https://twitter.com/majornelson/status/998790240377565184) the Title ID in listTable.txt is just a nice to have but apps won't be launchable anymore.
